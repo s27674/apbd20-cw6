@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutor5", "Tutor5\Tutor5.csproj", "{F8A3AEAA-083F-41AD-8971-005CA5F293EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A3AEAA-083F-41AD-8971-005CA5F293EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A3AEAA-083F-41AD-8971-005CA5F293EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A3AEAA-083F-41AD-8971-005CA5F293EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A3AEAA-083F-41AD-8971-005CA5F293EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
